@@ -1,5 +1,6 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+/mvnw
 
 ### STS ###
 .apt_generated
@@ -125,6 +126,7 @@ hs_err_pid*
 
 ### Maven ###
 target/
+pom.xml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
