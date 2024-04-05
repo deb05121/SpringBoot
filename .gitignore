@@ -1,10 +1,5 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
-/mvnw
-<<<<<<< HEAD
-=======
-/mvnw.cmd
->>>>>>> 17e0bb8040cc9b8a62634545c9def70360f22ced
 
 ### STS ###
 .apt_generated
@@ -15,10 +10,7 @@
 .springBeans
 .sts4-cache
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 17e0bb8040cc9b8a62634545c9def70360f22ced
 # Created by https://www.gitignore.io/api/git,java,maven,eclipse,windows
 
 ### Eclipse ###
@@ -133,7 +125,6 @@ hs_err_pid*
 
 ### Maven ###
 target/
-pom.xml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -170,10 +161,6 @@ $RECYCLE.BIN/
 *.lnk
 
 ### IntelliJ IDEA ###
-<<<<<<< HEAD
-=======
-out/
->>>>>>> 17e0bb8040cc9b8a62634545c9def70360f22ced
 .idea
 *.iws
 *.iml
