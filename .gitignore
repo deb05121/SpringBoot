@@ -162,9 +162,13 @@ $RECYCLE.BIN/
 
 ### IntelliJ IDEA ###
 .idea
+out/
+.idea/
+.idea_modules/
 *.iws
 *.iml
 *.ipr
+application.properties
 
 ### NetBeans ###
 /nbproject/private/
